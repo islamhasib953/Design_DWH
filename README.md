@@ -1,20 +1,23 @@
-Design for DWH using dimensional modeling for Sales Company
-Containing Logical Design and Physical Design
+## Design for DWH using dimensional modeling for Sales Company
 
-the Facts tables is:
-FactTransactions
-FactDailyBalances
-FactCustomerInteractions
-FactLoanPayments
-FactInvestments
+## Containing Logical Design and Physical Design
 
-the dimension tables is:
-DimCustomer
-DimDate
-DimChannel
-DimLoan
-DimAccount
-DimTransactionType
-DimLocation
-DimCurrency
-DimInvestmentType
+### Facts tables is:
+
+- FactTransactions
+- FactDailyBalances
+- FactCustomerInteractions
+- FactLoanPayments
+- FactInvestments
+
+### Dimension tables is:
+
+- DimCustomer
+- DimDate
+- DimChannel
+- DimLoan
+- DimAccount
+- DimTransactionType
+- DimLocation
+- DimCurrency
+- DimInvestmentType
